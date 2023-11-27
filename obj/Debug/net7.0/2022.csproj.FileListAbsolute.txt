@@ -1,0 +1,14 @@
+/Users/andrewhallam/2022/bin/Debug/net7.0/2022
+/Users/andrewhallam/2022/bin/Debug/net7.0/2022.deps.json
+/Users/andrewhallam/2022/bin/Debug/net7.0/2022.runtimeconfig.json
+/Users/andrewhallam/2022/bin/Debug/net7.0/2022.dll
+/Users/andrewhallam/2022/bin/Debug/net7.0/2022.pdb
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.AssemblyInfoInputs.cache
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.AssemblyInfo.cs
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.csproj.CoreCompileInputs.cache
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.dll
+/Users/andrewhallam/2022/obj/Debug/net7.0/refint/2022.dll
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.pdb
+/Users/andrewhallam/2022/obj/Debug/net7.0/2022.genruntimeconfig.cache
+/Users/andrewhallam/2022/obj/Debug/net7.0/ref/2022.dll
